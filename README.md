@@ -9,8 +9,9 @@
     <li>Herança;</li>
     <li>Interface Gráfica;</li>
     <li>Estrutura de Decisão;</li>
-    <li>Operadores Aritiméticos;</li>
+    <li>Operadores Aritméticos;</li>
     <li>Classes;</li>
+    <li>Métodos;</li>
     <li>Encapsulamento;</li>
     <li>Modificadores de Acesso;</li>
     <li>Instância;</li>
